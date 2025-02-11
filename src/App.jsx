@@ -1,4 +1,10 @@
+import Navigation from './components/NavBar/NavBar';
+
 function App() {
-  return <h1> Hello </h1>;
+  return (
+    <>
+      <Navigation />
+    </>
+  );
 }
 export default App;
