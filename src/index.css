@@ -1,7 +1,1 @@
-* {
-  margin: 0;
-  font-family: 'Jersey 15';
-}
-body {
-  background-color: rgb(113, 95, 212);
-}
+@import 'tailwindcss';
